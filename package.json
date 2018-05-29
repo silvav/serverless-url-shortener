@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.205.0",
+    "shortid": "^2.2.8"
+  }
+}
