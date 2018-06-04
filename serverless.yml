@@ -124,5 +124,5 @@ resources:
           - AttributeName: id
             KeyType: HASH
         ProvisionedThroughput:
-          ReadCapacityUnits: 10005
-          WriteCapacityUnits: 50
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
